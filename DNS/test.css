@@ -1,0 +1,14 @@
+body,html { width:100%; height:100%; }
+
+.content {
+ width:400px;
+ margin: 0px auto;
+ }
+
+p {
+ padding:10px;
+}
+
+.colorful {
+ color: blue;
+ }
